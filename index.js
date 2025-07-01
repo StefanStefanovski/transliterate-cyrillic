@@ -255,7 +255,7 @@ class TransliterateCyrillic {
       return m === lower ? cyr : cyr.toUpperCase();
     });
 
-    return new TransliterationResult(result, this);
+    return new TransliterationResult(result, this).toString();
   }
 
   reverseTransliterate(str) {
