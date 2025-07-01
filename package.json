@@ -1,5 +1,5 @@
 {
-  "name": "@stefanstefanovski/transliterate-cyrillic",
+  "name": "transliterate-cyrillic",
   "version": "1.0.0",
   "description": "Transliterate Latin to Cyrillic for Macedonian, Serbian, Bulgarian, etc. and vice-versa",
   "keywords": [
