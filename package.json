@@ -1,9 +1,27 @@
 {
-  "name": "transliterate-cyrillic",
+  "name": "@stefanstefanovski/transliterate-cyrillic",
   "version": "1.0.0",
-  "main": "index.js",
   "description": "Transliterate Latin to Cyrillic for Macedonian, Serbian, Bulgarian, etc. and vice-versa",
-  "keywords": ["transliterate", "cyrillic", "macedonian", "serbian", "bulgarian"],
+  "keywords": [
+    "transliterate",
+    "cyrillic",
+    "macedonian",
+    "serbian",
+    "bulgarian"
+  ],
+  "homepage": "https://github.com/StefanStefanovski/transliterate-cyrillic#readme",
+  "bugs": {
+    "url": "https://github.com/StefanStefanovski/transliterate-cyrillic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanStefanovski/transliterate-cyrillic.git"
+  },
+  "license": "MIT",
   "author": "Stefan Stefanovski",
-  "license": "MIT"
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
