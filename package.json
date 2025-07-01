@@ -1,0 +1,9 @@
+{
+  "name": "transliterate-cyrillic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Transliterate Latin to Cyrillic for Macedonian, Serbian, Bulgarian, etc. and vice-versa",
+  "keywords": ["transliterate", "cyrillic", "macedonian", "serbian", "bulgarian"],
+  "author": "Stefan Stefanovski",
+  "license": "MIT"
+}
